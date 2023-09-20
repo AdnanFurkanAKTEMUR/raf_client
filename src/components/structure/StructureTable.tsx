@@ -154,7 +154,7 @@ const App: React.FC = () => {
 
   const columns: ColumnsType<DataType> = [
     {
-      title: 'BİNA NUMARASI',
+      title: 'DEPO NUMARASI',
       dataIndex: 'bina_no',
       key: 'bina_no',
       width: '30%',
